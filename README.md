@@ -1,7 +1,7 @@
 # 백준 30804 - 과일 탕후루: 그리디의 함정에서 투포인터로
 
 [![문제 링크](https://img.shields.io/badge/Baekjoon-30804-blue)](https://www.acmicpc.net/problem/30804)
-[![블로그 포스트](https://img.shields.io/badge/Blog-Read%20Full%20Story-green)](;;)
+[![블로그 포스트](https://img.shields.io/badge/Blog-Read%20Full%20Story-green)](https://b-mokk.tistory.com/87)
 
 ## 📊 성능 개선
 
@@ -72,12 +72,12 @@ left 고정, right 증가 → 과일 종류는 증가하거나 유지 (절대 �
 ## 📝 전체 해결 과정
 
 전체 문제 해결 과정은 블로그 포스트에서 확인할 수 있습니다:
-👉 **[;;](https://b-mokk.tistory.com)**
+👉 **[투 포인터](https://b-mokk.tistory.com/87)**
 
 ## 🔗 관련 링크
 
 - [백준 30804번 문제](https://www.acmicpc.net/problem/30804)
-- [블로그 포스트](;;)
+- [블로그 포스트](https://b-mokk.tistory.com/87)
 
 ---
 
