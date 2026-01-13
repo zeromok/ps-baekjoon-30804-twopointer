@@ -3,8 +3,10 @@ package attempts;
 import java.util.HashMap;
 import java.util.Map;
 
+import solution.Main;
+
 /// ## 투포인터 접근법 구현
-/// 투포인터 알고리즘의 기본 구현으로, 최종 솔루션({@link solution.TwoPointer})과 동일한 로직을 사용
+/// 투포인터 알고리즘의 기본 구현으로, 최종 솔루션({@link Main})과 동일한 로직을 사용
 /// ### 시간복잡도: O(N)
 /// ### 공간복잡도: O(K) (K 는 구간 내 최대 과일 종류 수)
 public class TwoPointerApproach {
